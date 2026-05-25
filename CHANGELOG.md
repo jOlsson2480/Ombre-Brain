@@ -21,3 +21,4 @@
 - chore: add a note about the defaults
 - fix: link the usage section
 - docs: fix a small wording issue
+- fix: link the usage section
